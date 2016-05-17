@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // hello word! test Git
+    
+    // hehe, This is New Brach 1.
 }
 
 - (void)didReceiveMemoryWarning {
