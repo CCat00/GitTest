@@ -19,8 +19,6 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     // hello word! test Git
-    
-    // hehe Last Branch!
 }
 
 - (void)didReceiveMemoryWarning {
