@@ -20,7 +20,7 @@
     
     // hello word! test Git
     
-    // hehe, This is New Brach 1.
+    // 哈哈哈哈hehe, This is New Brach 1.
 }
 
 - (void)didReceiveMemoryWarning {
